@@ -27,9 +27,11 @@
     "vite": "^3.1.8"
   },
   "dependencies": {
+    "@joaoguibc-ui/eslint-config": "*",
+    "@joaoguibc-ui/ts-config": "*",
     "@joaoguibc-ui/react": "*",
     "@joaoguibc-ui/tokens": "*",
-    "@joaoguibc-ui/eslint-config": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
