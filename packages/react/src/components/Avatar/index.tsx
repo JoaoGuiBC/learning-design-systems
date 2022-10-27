@@ -1,7 +1,7 @@
 import { User } from 'phosphor-react'
-import { ComponentProps } from 'react';
+import { ComponentProps } from 'react'
 
-import { AvatarContainer, AvatarImage, AvatarFallback } from "./styles";
+import { AvatarContainer, AvatarImage, AvatarFallback } from './styles'
 
 export interface AvatarProps extends ComponentProps<typeof AvatarImage> {}
 
